@@ -6,4 +6,4 @@
 - Woramon Sawasdee
 
 ## Project Description
-This is Git collaborative assignment of Group7
+This is Git collaborate assignment of Group7
